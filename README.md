@@ -2,7 +2,7 @@
 
 NetBeans Day London May 31 2016
 
-NetBeans Community News (Geertjan Wielenga, Oracle):
+* NetBeans Community News (Geertjan Wielenga, Oracle):
 
 https://prezi.com/-julyxe5em9c/this-is-netbeans/
 
