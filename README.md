@@ -14,6 +14,7 @@ https://prezi.com/-julyxe5em9c/this-is-netbeans/
 * NetBeans, TypesScript and Angular2 (Karsten Sitterberg, Munster JUG)
 
 * Reactive Programming with NetBeans and Java 8 (Stefan Reuter, Munster JUG)
+https://github.com/NetBeansDay/053116-London/blob/master/StefanReuter-ReactiveProgrammingWithNetBeansAndJava8.pdf
 
 * Strategies for Live Coding Java (Neil C Smith, Praxis LIVE)
 
