@@ -20,4 +20,4 @@ https://prezi.com/-julyxe5em9c/this-is-netbeans/
 * Get Started with Oracle Open Source Solutions for Enterprise JavaScript (Geertjan Wielenga, Oracle, Thomas Kruse, Munster JUG):
 https://github.com/NetBeansDay/053116-London/blob/master/OracleJETIntro.pdf
 
-* Get Started Mixing AngularJS with Java EE (Thomas Kruse & Karsten Sitterberg, Davidson)
+* Get Started Mixing AngularJS with Java EE (Thomas Kruse & Karsten Sitterberg, Munster JUG)
