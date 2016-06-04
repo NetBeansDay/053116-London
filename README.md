@@ -4,7 +4,7 @@ NetBeans Day London May 31 2016
 
 * NetBeans Community News (Geertjan Wielenga, Oracle):
 
-https://prezi.com/-julyxe5em9c/this-is-netbeans/
+** https://prezi.com/-julyxe5em9c/this-is-netbeans/
 
 Current State of Java & How to Get Involved (Ben Evans, London JUG)
 
