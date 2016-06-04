@@ -17,6 +17,7 @@ https://prezi.com/-julyxe5em9c/this-is-netbeans/
 
 * Strategies for Live Coding Java (Neil C Smith, Praxis LIVE)
 
-* Get Started with Oracle Open Source Solutions for Enterprise JavaScript (Geertjan Wielenga, Oracle, Thomas Kruse, Munster JUG)
+* Get Started with Oracle Open Source Solutions for Enterprise JavaScript (Geertjan Wielenga, Oracle, Thomas Kruse, Munster JUG):
+https://github.com/NetBeansDay/053116-London/blob/master/OracleJETIntro.pdf
 
 * Get Started Mixing AngularJS with Java EE (Thomas Kruse & Karsten Sitterberg, Davidson)
