@@ -11,7 +11,7 @@ https://prezi.com/-julyxe5em9c/this-is-netbeans/
 
 * Get Started with NetBeans IDE (Georgia Ingham/Mark Stephens, IDR Solutions)
 
-* NetBeans, TypesScript and Angular2 (Karsten Sitterberg, Munster JUG)
+* NetBeans, TypesScript and Angular2 (Karsten Sitterberg, Munster JUG): https://github.com/NetBeansDay/053116-London/commit/e36dcbf1203b69abf128c4b69e83d1f6f4fa85c4
 
 * Reactive Programming with NetBeans and Java 8 (Stefan Reuter, Munster JUG):
 https://github.com/NetBeansDay/053116-London/blob/master/StefanReuter-ReactiveProgrammingWithNetBeansAndJava8.pdf
