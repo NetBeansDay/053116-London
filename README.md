@@ -9,7 +9,7 @@ https://prezi.com/-julyxe5em9c/this-is-netbeans/
 
 * News from Java EE and Payara (Steve Millidge, Payara)
 
-* Get Started with NetBeans IDE (Georgia Ingham/Mark Stephens, IDR Solutions)
+* Get Started with NetBeans IDE (Georgia Ingham/Mark Stephens, IDR Solutions): https://github.com/NetBeansDay/053116-London/blob/master/GeorgiaIngham%26MarkStephens-GettingStartedWithNetBeansIDE.pdf
 
 * NetBeans, TypesScript and Angular2 (Karsten Sitterberg, Munster JUG): https://github.com/NetBeansDay/053116-London/blob/master/KarstenSitterberg-Angular2NetBeansTypescript.pdf
 
