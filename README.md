@@ -11,7 +11,7 @@ https://prezi.com/-julyxe5em9c/this-is-netbeans/
 
 * Get Started with NetBeans IDE (Georgia Ingham/Mark Stephens, IDR Solutions): https://github.com/NetBeansDay/053116-London/blob/master/GeorgiaIngham%26MarkStephens-GettingStartedWithNetBeansIDE.pdf
 
-* NetBeans, TypesScript and Angular2 (Karsten Sitterberg, Munster JUG): https://github.com/NetBeansDay/053116-London/blob/master/KarstenSitterberg-Angular2NetBeansTypescript.pdf
+* NetBeans, TypeScript and Angular2 (Karsten Sitterberg, Munster JUG): https://github.com/NetBeansDay/053116-London/blob/master/KarstenSitterberg-Angular2NetBeansTypescript.pdf
 
 * Reactive Programming with NetBeans and Java 8 (Stefan Reuter, Munster JUG):
 https://github.com/NetBeansDay/053116-London/blob/master/StefanReuter-ReactiveProgrammingWithNetBeansAndJava8.pdf
@@ -20,5 +20,6 @@ https://github.com/NetBeansDay/053116-London/blob/master/StefanReuter-ReactivePr
 
 * Get Started with Oracle Open Source Solutions for Enterprise JavaScript (Geertjan Wielenga, Oracle, Thomas Kruse, Munster JUG):
 https://github.com/NetBeansDay/053116-London/blob/master/OracleJETIntro.pdf
+https://github.com/NetBeansDay/053116-London/blob/master/ThomasKruse-SwingToJET.pdf
 
-* Get Started Mixing AngularJS with Java EE (Thomas Kruse & Karsten Sitterberg, Munster JUG)
+* Get Started Mixing AngularJS with Java EE (Thomas Kruse & Stefan Reuter, Munster JUG)
